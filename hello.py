@@ -7,3 +7,4 @@ print("going to modify")
 def add_two_numbers(a,b):
     print("addition done")
     return a+b
+print("hi")    

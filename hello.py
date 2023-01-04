@@ -6,8 +6,8 @@ print("going to modify")
 #testing again and again
 
 #below codes are edited by mithun
-a=1
-b=2
+a=30
+b=6
 x=a+b
 print(x)
-print("your are Hacked - cod36")
+print(f"your are Hacked - cod{x}")
